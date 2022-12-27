@@ -55,7 +55,10 @@ li {
     position: relative;
     margin-top: -8px;
 }
- 
+.dropdown__link {
+    padding: .50rem;
+    font-weight: 600;
+}
 .dropdown-menu {
     position: absolute;
     right: 0;
