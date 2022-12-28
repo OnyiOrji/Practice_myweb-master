@@ -140,21 +140,21 @@ nav {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 12px;
-    animation: fade-right 2400ms 800ms backwards;
+    animation: fade-right 6400ms 800ms backwards;
 }
 .row2 {
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
     padding: 0 12px;
-    animation: fade-left 3200ms 600ms backwards;
+    animation: fade-left 7200ms 600ms backwards;
 }
 .row3 {
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
     padding: 0 12px;
-    animation: fade-right 4000ms 400ms backwards;
+    animation: fade-right 8000ms 400ms backwards;
 }
 @keyframes fade-right {
     0%{
@@ -354,7 +354,7 @@ TECH - STACK
 }
 .project__img {
     width: 100%;
-    transition: all 500ms ease;
+    transition: all 550ms ease;
 }
 .project__wrapper{
     display: flex;
@@ -372,7 +372,7 @@ TECH - STACK
    width: 100%;
    background-color: #1c1d25;
    opacity: 0;
-   transition: opacity 450ms ease;
+   transition: opacity 550ms ease;
    z-index: 2;
 }
 .project:hover .project__wrapper:before{
