@@ -98,12 +98,12 @@ nav {
 }
 .nav__link--anchor {
     margin: 0 12px;
-    color: #242424;
+    color: #252525;
     text-decoration: none;
     font-weight: 700;
 }
 .nav__link--anchor-primary {
-    background-color: #4e7dc2;
+    background-color: #4d80af;
     padding: 8px 20px;
     border-radius: 50px;
     color: white;
